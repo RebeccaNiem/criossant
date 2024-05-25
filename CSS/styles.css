@@ -1,0 +1,31 @@
+body {
+  background-color: beige;
+}
+h1 {
+  color: brown;
+  text-align: center;
+  font-size: 50px;
+}
+.paragraph1 {
+  text-align: center;
+}
+.homepage {
+  color: green;
+  margin: 10px;
+  padding: 10px;
+}
+.contact {
+  color: green;
+  margin: 10px;
+  padding: 10px;
+}
+
+.croissantPic {
+  color: green;
+  margin: 10px;
+  padding: 10px;
+}
+
+.links {
+  text-align: center;
+}

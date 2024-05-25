@@ -1,0 +1,35 @@
+h1 {
+  font-size: 50px;
+  text-align: center;
+  color: brown;
+}
+
+.pic1 {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+.backtoHomepage {
+  margin: 10px;
+  padding: 10px;
+  font-size: larger;
+  color: green;
+}
+
+.backtoContact {
+  margin: 10px;
+  padding: 10px;
+  font-size: larger;
+  color: green;
+}
+.backtoPic {
+  margin: 10px;
+  padding: 10px;
+  font-size: larger;
+  color: green;
+}
+.links {
+  display: block;
+  text-align: center;
+  margin: 20px;
+}
